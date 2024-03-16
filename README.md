@@ -1,6 +1,6 @@
-## Oi! Eu sou a Lívia Marchi de Melo!
+## Hi! I'm Lívia Marchi de Melo!
 
-- 💻 Aluna de Tecnologia em Sistemas para Internet
-- 🌟 Aprimorando conhecimentos em HTML e CSS
-- 🌱 Iniciando C e JavaScript
-- 🧱 Engenheira em transição de carreira
+- 💻 Undergraduate student in Technology in Internet Systems - IFRS
+- 🧱 Food Engineer (ICTA/UFRGS) in career transition
+- 🌟 Working as iXp Support Engineer Intern at SAP
+- 🌱 In this journey, I've already build knowledge in HTML, CSS, C, Java, SQL e Go
